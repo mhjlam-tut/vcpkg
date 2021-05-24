@@ -1,0 +1,4 @@
+namespace process
+{
+	void greeting();
+}
